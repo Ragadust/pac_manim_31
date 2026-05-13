@@ -1694,7 +1694,7 @@ zoom = Vector2(1.4, 1.4)
 [node name="Node2D" type="Node2D" parent="." unique_id=716127785]
 
 [node name="Coin4" parent="Node2D" unique_id=1389847940 instance=ExtResource("3_sugp2")]
-position = Vector2(-4, -53)
+position = Vector2(-5, -53)
 
 [node name="Coin" parent="Node2D" unique_id=1656058537 instance=ExtResource("3_sugp2")]
 position = Vector2(-45, -51)
@@ -1704,3 +1704,18 @@ position = Vector2(-31, -53)
 
 [node name="Coin3" parent="Node2D" unique_id=1087558329 instance=ExtResource("3_sugp2")]
 position = Vector2(-18, -52)
+
+[node name="Coin5" parent="Node2D" unique_id=1262345356 instance=ExtResource("3_sugp2")]
+position = Vector2(77, -54)
+
+[node name="Coin6" parent="Node2D" unique_id=777368491 instance=ExtResource("3_sugp2")]
+position = Vector2(63, -54)
+
+[node name="Coin7" parent="Node2D" unique_id=1248276714 instance=ExtResource("3_sugp2")]
+position = Vector2(44, -54)
+
+[node name="Coin8" parent="Node2D" unique_id=119562087 instance=ExtResource("3_sugp2")]
+position = Vector2(21, -53)
+
+[node name="Coin9" parent="Node2D" unique_id=1998704211 instance=ExtResource("3_sugp2")]
+position = Vector2(9, -54)
