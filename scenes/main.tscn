@@ -1719,3 +1719,12 @@ position = Vector2(21, -53)
 
 [node name="Coin9" parent="Node2D" unique_id=1998704211 instance=ExtResource("3_sugp2")]
 position = Vector2(9, -54)
+
+[node name="Coin10" parent="Node2D" unique_id=810870636 instance=ExtResource("3_sugp2")]
+position = Vector2(78, 6)
+
+[node name="Coin11" parent="Node2D" unique_id=1646196342 instance=ExtResource("3_sugp2")]
+position = Vector2(75, -13)
+
+[node name="Coin12" parent="Node2D" unique_id=584607487 instance=ExtResource("3_sugp2")]
+position = Vector2(75, -33)
