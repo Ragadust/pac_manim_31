@@ -1728,3 +1728,5 @@ position = Vector2(75, -13)
 
 [node name="Coin12" parent="Node2D" unique_id=584607487 instance=ExtResource("3_sugp2")]
 position = Vector2(75, -33)
+
+[node name="mal ali" type="Node2D" parent="." unique_id=2077383554]
