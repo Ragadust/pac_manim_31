@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://drl7v1wbvljem"]
+
+[ext_resource type="Texture2D" uid="uid://cynwuespmmfo7" path="res://Assets/çizgidüz.png" id="1_f7cmv"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_f7cmv"]
+size = Vector2(6.363964, 159.65155)
+
+[node name="Platform2" type="StaticBody2D" unique_id=2145531568]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=2128244505]
+texture = ExtResource("1_f7cmv")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1146651012]
+position = Vector2(0.8046675, -4.695336)
+rotation = -0.7853982
+scale = Vector2(0.9999999, 0.9999999)
+shape = SubResource("RectangleShape2D_f7cmv")
